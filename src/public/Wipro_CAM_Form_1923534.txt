@@ -1,0 +1,290 @@
+View Instructions 
+Company Application Manual 
+01 Candidate Information 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+Personal Details 
+Resume Number 1923534 Gender Female Salutation * Mrs 
+First Name Karpagavalli Middle Name Last Name Purushothaman 
+Father’s Name * Purushothaman Place of Birth Personal E-mail suresh.valli@gmail.com 
+Date of Birth 01-Jan-1982 If you find any discrepancies with your Date of Birth 
+please contact your recruiter/helpdesk team 
+Alternate E-mail 
+Nationality * Indian Others If others ( please select the country ) 
+Work Permit FR 
+PAN Number * 
+If not available, please enter 
+NA or Applied, as applicable 
+NA Aadhar/UI Number 
+Do you have a valid 
+passport? * 
+Yes No 
+If Yes ( Please provide your passport number ) 
+Passport Validity Date 
+(DD-MON-YYYY) 
+Date of Passport Issue 
+(DD-MON-YYYY) 
+Place of Passport Issue 
+Overseas Assignment Details 
+Overseas Assignments * Yes No 
+Visa Information Details 
+Have you been denied VISA to any country? Yes No 
+02 Communication Information 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+Present Address 
+Address Details * 17 HMT Main Road, Prestige Kensington Gardens, Jalahalli , Blr-13 
+Address Type * Rented 
+Prominent 
+Landmark * HMT theater 
+City * Bangalore State * karnataka 
+Pin Code / Zip Code * 
+560013 
+Phone Mobile * 
+e.g: 1234567890 / +911234567890 
+9663528879 
+Landline 
+From Date * 
+(DD-MON-YYYY) 01-Jun-2011 
+Permanent Address 
+If your Permanent Address is same as your Present Address - Select the checkbox
+
+Address Details * 17 HMT Main Road, Prestige Kensington Gardens, Jalahalli , Blr-13 
+Address Type * Rented 
+Prominent 
+Landmark * HMT theater 
+City * Bangalore State * karnataka 
+Pin Code / Zip Code * 
+560013 
+Phone Mobile * 
+e.g: 9876543210 / +919876543210 
+9663528879 
+Landline 
+03 Education Details 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+Please provide your education details starting with the latest on top followed up by others till your 10th standard 
+Latest Education 
+Course / Degree Name * MBA Specialization * Systems and HR 
+Institute * VIT University * VIT 
+Type of Education * Full Time Aggregate Marks (%) * 88 
+From Date * 
+(DD-MON-YYYY) 01-Jul-2001 
+To Date * 
+(DD-MON-YYYY) 01-Apr-2003 
+Graduated Month * APR Graduated Year * 2003 
+Institute / University 
+Address Line 1 * 
+Vellore Institute of Technology, Vallore Institute / University 
+Address Line 2 
+City * Vellore State * Tamil Nadu 
+Country * India Pin Code / Zip Code * 650013 
+Comments Please display day, month, year as separate drop down for Date column ...... its really hard to scroll 18 years back from current 
+date :-).Same request with birthdate as well. 
+Add More Delete 
+04 Technical Certification and Experience Details 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+Training Details 
+Training Development 
+Programs attended / IT 
+Skills acquired 
+Institute / Organization Complete Address Training Start Date 
+(DD-MON-YYYY) 
+Training End Date 
+(DD-MON-YYYY) 
+AWS certified Solution 
+Architect Associate 
+Amazon amazon, seattle, USA 01-Aug-2018 31-Aug-2018 
+Certified Scrum Master SCRUM Bangalore 31-Oct-2017 01-Nov-2017
+
+Add More Delete 
+Work Experience Details 
+Total Number of companies 
+worked for 
+( count should include the present employer ) * 
+Total IT experience till date 
+( in months ) * 
+Total Non-IT experience till date 
+( in months ) 
+Total professional experience 
+till date 
+( in months ) 
+2 10 1 11 
+05 Current Employment Details 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+From Date * 
+(DD-MON-YYYY) 01-Jul-2011 
+To Date * 
+(DD-MON-YYYY) 31-Oct-2017 
+Company Name * Gander mountain 
+Address Line 1 * St Paul, Minnesota, USA Address Line 2 
+City * St Paul State * Minnesota 
+Country * USA Pin Code / Zip Code * 55446 
+Phone * 9663528879 Designation Consultant 
+Employee Code * GMT001 Salary - Mode of Payment Salary Account 
+Department * IT Can we take a reference from your 
+Supervisor * 
+Yes No 
+Supervisor Name * Amy Frick Supervisor Designation Manager 
+Supervisor Contact 9999999999 Type of Employment Contract 
+Employment Responsibilities Reason for Leaving 
+Notice Period 
+Please let us know if you were deputed to any client location. If yes, kindly furnish the below requested details Yes No 
+06 Current Salary Details 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+Current Salary Break Up 
+Currency * USD Basic / Fixed ( per month ) 
+Others Allowances ( per month ) Monthly Gross * $2,400 
+Variable Pay Annual Gross * $28,500
+
+Do you have employee stock 
+options ? 
+Yes No Net gain at current value 
+Expected Salary 
+Monthly Gross Annual Gross 
+07 Previous Employment Details 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+Previous Employment - 1 
+From Date * 
+(DD-MON-YYYY) 01-Jul-2018 
+To Date * 
+(DD-MON-YYYY) 22-Apr-2019 
+Company Name * Freelancing 
+Address Line 1 * HMT Main road Address Line 2 
+City * bangalore State * karnataka 
+Country * India Pin Code / Zip Code * 560013 
+Phone * 9663528879 Designation 
+Employee Code * my001 Salary - Mode of Payment Select Mode of Payment 
+Currency * INR Monthly Gross * 1000 
+Department * IT Can we take a reference from your 
+Supervisor * 
+Yes No 
+Supervisor Name * no Name Supervisor Designation 
+Supervisor Contact Type of Employment Freelancer 
+Employment Responsibilities Reason for Leaving 
+Please let us know if you were deputed to any client location. If yes, kindly furnish the below requested details Yes No 
+Add More 
+08 GAP/Overlap Identification Details 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+Auto Calculate GAP 
+GAP/Overlap Description From Date (DD-MON-YYYY) To Date (DD-MON-YYYY) Remarks 
+GAP in Employment found between 
+Employment-2 and Employment-1 
+31-Oct-2017 01-Jul-2018 Gander Mountain got sold out and I was let go.
+
+GAP between Last Education & First 
+Employment found. 
+01-Apr-2003 01-Jul-2011 Was working for Accenture 
+Add More Delete 
+09 Reference Details 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+Name * 
+Duration & Nature of 
+Job * 
+Organization & 
+Designation * E-mail Office Phone Number 
+Mobile/Residence 
+Phone Number * 
+Amy Frick Manager GMTN 9999999999 
+Add More Delete 
+10 Additional Details & Declarations 
+- All fields marked with * are mandatory. 
+- “Save” the details in the screen before navigating to the next section. 
+Declarations 
+Sl. No. Details Comments 
+1. Have you attended any selection process at 
+Wipro before? * 
+Yes No 
+2. Are you an Ex-employee of Wipro? * 
+Yes No 
+3. Do you have any acquaintance / relative / 
+friend employed with Wipro? If yes please 
+provide his / her location and designation? * 
+Yes No 
+4. Have you ever been arrested, prosecuted or 
+convicted for any criminal offense, other than 
+minor traffic offenses? * 
+Yes No 
+5. In the last ten years, have you been convicted 
+of or plead guilty to any offence? * 
+Yes No 
+6. In the last ten years have you been released 
+from prison on a conviction? * 
+Yes No
+
+7. Do you have any commitment to another 
+employer or organization that might affect 
+your employment with us? * 
+Yes No 
+8. Any other information you would like us to know 
+which may have significant bearing on our hiring 
+decision? * 
+NA 
+9. Do you have any non-compete obligations or 
+conflict situations or other restrictive clauses 
+with any party including any of your previous 
+employers which can impact your joining 
+Wipro? * 
+Yes No 
+10. A disability is any restriction or lack (resulting from 
+an impairment) of ability to perform an activity in 
+the manner or within the range considered normal 
+for a human being. Do you wish to disclose any 
+disability? * 
+NA 
+Additional Details 
+Sl. No. Details Comments 
+1. Your personal strengths ? 
+2. Your personal areas of improvement ? 
+3. Your career objectives ? 
+4. Your expectation from the job / Wipro ? 
+5. Significant achievements : Distinctions, Honours, Awards (academic 
+or extra curricular) received. 
+6. Other interests : Cultural, sports, community work and hobbies from 
+school onwards of memberships of associations. 
+Work Location Preferences 
+Are you willing to be posted anywhere in India? 
+Yes No 
+Are you willing to be posted abroad? 
+Yes No 
+Indicate your preferred work location in India 
+Bangalore 
+11 Final Declaration & Letter of Authorization 
+- All fields are mandatory. 
+- “Save” the details in the screen before navigating to the next section.
+
+Sl. No. Details Declaration 
+1. I hereby certify that all the information provided in the CAM, submitted on synergy.wipro.com( by me and / or 
+my parent company on my behalf is true and complete and I confirm that where information has been provided 
+by my parent company, the same has been reviewed by me. I understand that omission or misrepresentation of 
+any fact may result in refusal of employment or immediate dismissal. * 
+I Accept 
+2. I understand that Wipro, at its discretion, may institute and conduct a background check to verify the 
+information furnished by me in this form. Wipro assures me that any background check on my current 
+employment will be taken up only post my joining Wipro and this is acceptable to me. * 
+I Accept 
+3. I understand that Wipro may notify and publish any information provided by me that is found false. In addition, I 
+understand and agree that Wipro has rights to seek any legal remedies including indemnification and damages 
+from me for any loss caused to Wipro as a result of any such false information. * 
+I Accept 
+Letter of Authorization ( please select the letter of authorization ) 
+I hereby authorize Wipro Limited and its representative to verify information provided in my resume and application of 
+employment, and to conduct enquiries as may be necessary, at the company’s discretion. I authorize all persons who may 
+have information relevant to this enquiry to disclose it to Wipro Limited or its representative. I release all persons from 
+liability on account of such disclosure. * 
+I Accept 
+Date 
+(DD-MON-YYYY) 18-Nov-2013 Place Bangalore 
+Name / Signature karpagavalli purushothaman 
+Note *: It is mandatory for the document to be valid for you to upload the document using Wipro - Synergy Candidate Desktop. 
+Use the validate button provided below to validate the document. 
+On successful validation, the text in RED will turn to GREEN. Also the form would be enabled in protected mode to prevent 
+further modification. 
+Validate the Document This document is valid & ready to be uploaded
+

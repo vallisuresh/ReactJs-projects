@@ -1,0 +1,28 @@
+{
+  "name": "react-extensions",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "react-scripts": "1.1.4"
+  },
+  "dependencies": {
+    "chance": "^1.0.18",
+    "lodash": "^4.17.10",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-responsive-carousel": "^3.1.49",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-transition-group": "^2.4.0",
+    "semantic-ui-react": "^0.86.0",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
